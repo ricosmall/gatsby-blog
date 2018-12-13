@@ -10,4 +10,4 @@ git add .
 
 git commit -m "Update docs"
 
-git push --force --quiet git@github.com:ricosmall/ricosmall.github.io.git master:master
+git push --force git@github.com:ricosmall/ricosmall.github.io.git master:master
