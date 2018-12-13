@@ -11,7 +11,7 @@ categories:
 
 在 SecureCRT 上登录同一台机器，每次都要输入密码，非常繁琐。登录的时候「保存密码」的选项又是勾上的，就是不起作用，怎么办呢？
 
-![login-settings](http://img.ricosmall.xyz/securecrt-connect.png)
+![login-settings](https://ricosmall.oss-cn-shenzhen.aliyuncs.com/securecrt-connect.png)
 
 <!-- more -->
 
@@ -19,6 +19,6 @@ categories:
 
 打开 secureCRT => Preferences，左侧选择 General，去掉右侧面板中 Use Keychain 选项，如下图：
 
-![securecrt-settings](http://img.ricosmall.xyz/securecrt-settings.png)
+![securecrt-settings](https://ricosmall.oss-cn-shenzhen.aliyuncs.com/securecrt-settings.png)
 
 然后登录的时候确保「保存密码」 选项选中的情况下，成功登录一次之后，密码就会保存下来了。
