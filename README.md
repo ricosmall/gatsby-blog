@@ -1,4 +1,5 @@
 # gatsby-starter-blog
+
 Gatsby starter for creating a blog
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
@@ -8,4 +9,11 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
 
 ## Running in development
+
 `gatsby develop`
+
+## Build
+
+`gatsby build`
+
+Then publish the `public` directory to your server.
